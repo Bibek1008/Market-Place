@@ -15,7 +15,7 @@ const products = [
       name: 'Bibek Bhandari',
     address: 'Achham, Nepal',
     email: 'bibek.bhandari@gmail.com',
-      phone: 9806591044,
+      phone: 9800000001,
     },
   },
 
@@ -37,7 +37,7 @@ const products = [
       name: 'Bibek Bhandari',
     address: 'Achham, Nepal',
     email: 'bibek.bhandari@gmail.com',
-      phone: 9844867839,
+      phone: 9800000002,
     },
   },
   {
@@ -58,7 +58,7 @@ const products = [
       name: 'Bibek Bhandari',
     address: 'Achham, Nepal',
     email: 'bibek.bhandari@gmail.com',
-      phone: 9848289193,
+      phone: 9800000003,
     },
   },
   {
@@ -82,7 +82,7 @@ const products = [
       name: 'Bibek Bhandari',
     address: 'Achham, Nepal',
     email: 'bibek.bhandari@gmail.com',
-      phone: 9868383125,
+      phone: 9800000004,
     },
   },
   {
@@ -102,7 +102,7 @@ const products = [
       name: 'Bibek Bhandari',
     address: 'Achham, Nepal',
     email: 'bibek.bhandari@gmail.com',
-      phone: 9841118874,
+      phone: 9800000005,
     },
   },
   {
@@ -122,7 +122,7 @@ const products = [
       name: 'Bibek Bhandari',
     address: 'Achham, Nepal',
     email: 'bibek.bhandari@gmail.com',
-      phone: 9868224104,
+      phone: 9800000006,
     },
   },
 ]
