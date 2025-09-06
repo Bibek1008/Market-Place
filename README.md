@@ -2,7 +2,7 @@
 
 > **A sleek, modern MERN stack e-commerce platform with gradient design and optimized performance**
 
-[![⭐ Give this project a star](https://img.shields.io/badge/⭐-Give%20this%20project%20a%20star-yellow?style=for-the-badge)](https://github.com/Bibek1008/Market-Place)
+[![⭐ Give this project a star](https://img.shields.io/badge/⭐-Give%20this%20project%20a%20star-yellow?style=for-the-badge)](https://github.com/BibekBhandari/Market-Place)
 
 ## 🚀 Overview
 
@@ -42,7 +42,7 @@ A full-featured marketplace application built with the MERN stack, featuring a m
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Bibek1008/Market-Place.git
+   git clone https://github.com/BibekBhandari/Market-Place.git
    cd Market-Place
    ```
 
